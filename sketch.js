@@ -39,6 +39,12 @@ function draw() {
   	 fill(0,0,0);
   	ellipse(290, 180, 17, 17);
   	
+  	fill(250,250,250);
+  	ellipse(290, 184, 7, 7);
+  	
+  	fill(250,250,250);
+  	ellipse(370, 184, 7, 7);
+  	
   	fill(0,0,0);
   	noStroke();
     arc(330, 230, 70, 60, 0, PI);
